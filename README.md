@@ -1,4 +1,4 @@
-# chess-moves-reader
+# chess-moves-reader  to play BlindFold Chess :) 
 
 This is a python code that reads a chess set of moves (or game),  and convert to human readable format,
 
